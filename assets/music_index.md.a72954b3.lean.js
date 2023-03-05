@@ -1,0 +1,1 @@
+import{_ as i,o as e,c as t,d as l}from"./app.bdc58c08.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"music/index.md","lastUpdated":1677949764000}'),_={name:"music/index.md"},a=l("",1),s=[a];function o(c,n,r,d,p,m){return e(),t("div",null,s)}const x=i(_,[["render",o]]);export{f as __pageData,x as default};
